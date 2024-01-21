@@ -9,7 +9,7 @@ I hope I can stick to it.
 ## 2. Content
 
 
-###  Collecting with Markdown
+###  Writing with Markdown
 
 > WIP
 
@@ -45,29 +45,6 @@ I hope I can stick to it.
 - [ ] [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [ ] Make a report
 
-
-###  C# with Unity
-
-> Not start yet
-
-- [ ] [Unity Tutorial](https://learn.unity.com/)
-- [ ] [C# & Unity 教程](https://www.bilibili.com/video/BV1PA411p7A6)
-- [ ] Make a report
-
-###  Develop a 2D-Rougelike game with Unity
-
-> Not start yet
-
-- [ ] [Project]()
-- [ ] Make a report
-
-###  3D Rhythm Game with Unity
-
-> Not start yet
-
-
-- [ ] [Project]()
-- [ ] Make a report
 
 ### Make a Markdown editor
 
