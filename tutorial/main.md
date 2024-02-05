@@ -6,6 +6,7 @@
 - [x] 閱讀[教學](https://ithelp.ithome.com.tw/users/20119550/ironman/2221) (30天)
     - [x] Flutter hello world
     - [x] Flutter basic widgets
+        - [ ] 延伸：[Flutter Widget of the Week](https://www.youtube.com/watch?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) on Youtube
     - [x] Flutter packages
     - [ ] App 開頭動畫
     - [ ] Firebase與Bloc Design Pattern 
@@ -31,6 +32,10 @@
 - [ ] 自己製作一個一起看影片的APP (14天)
     - [ ] 前端：用戶界面部分
     - [ ] 後端：串流服務
+
+### 學習資料
+- 第 11 屆 iThome 鐵人賽 [Flutter---Google推出的跨平台框架，Android、iOS一起搞定 系列](https://ithelp.ithome.com.tw/users/20119550/ironman/2221)
+- [Flutter Widget of the Week](https://www.youtube.com/watch?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) on Youtube
 <!-- ============================================================ -->
 
 ## 碰到的困難

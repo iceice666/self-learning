@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278500035958",
+    "project_id": "test-3709b",
+    "storage_bucket": "test-3709b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278500035958:android:652c0cf23d513bd3427e57",
+        "android_client_info": {
+          "package_name": "net.iceice666.flattube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenU8SlF5xZFVXoy6NCWrxrO76uviM9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
