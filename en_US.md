@@ -17,7 +17,7 @@ Instead, you typically have to host the resource pack on a third-party website,
 which can be inconvenient for players and server moderators,
 especially for developers who frequently update the resource pack.  
 This mod aims to address this issue by enabling you to
-host the resource pack directly on your own server and easily share it with players.
+host the resource pack directly on your own server.
 
 ## Plan and Progress
 
