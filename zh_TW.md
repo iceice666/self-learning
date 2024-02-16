@@ -1,5 +1,5 @@
 
-# 資源包伺服器
+# ResourcePack Server
 
 > 在線版本在這裡！https://github.com/iceice666/self-learning/blob/resourcepack-server/zh_TW.md  
 > 你也可以掃描這個QR碼
