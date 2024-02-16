@@ -7,10 +7,6 @@
 A mod that allows you to host a resource pack server on your own server.  
 (This mod has been downloaded 355 times as of 2024/02/16.)  
 
-## Table of contents
-
-[TOC]
-
 ## Motivation
 
 In the video game Minecraft, a resource pack can be used to alter the game's textures, sounds, music, language files, end credits, splashes, and fonts.  
