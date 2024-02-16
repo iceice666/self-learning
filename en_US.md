@@ -2,7 +2,7 @@
 
 > Online version is here! https://github.com/iceice666/self-learning/blob/resourcepack-server/en_US.md  
 > You can also scan this QRCode
-> ![](qrcode.png)
+> ![](qrcode_en.png)
 
 A mod that allows you to host a resource pack server on your own server.  
 (This mod has been downloaded 355 times as of 2024/02/16.)  
