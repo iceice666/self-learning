@@ -1,7 +1,15 @@
 # ResourcePack Server
 
+> Online version is here! https://github.com/iceice666/self-learning/blob/resourcepack-server/en_US.md  
+> You can also scan this QRCode
+> ![](qrcode.png)
+
 A mod that allows you to host a resource pack server on your own server.  
 (This mod has been downloaded 355 times as of 2024/02/16.)  
+
+## Table of contents
+
+[TOC]
 
 ## Motivation
 
@@ -9,8 +17,11 @@ In the video game Minecraft, a resource pack can be used to alter the game's tex
 It provides a simple means to customize the game's appearance and introduce new features.  
 Many servers utilize resource packs to enhance the gaming experience for players.  
 However, vanilla Minecraft servers do not support hosting resource packs natively.  
-Instead, you typically have to host the resource pack on a third-party website, which can be inconvenient for players and server moderators, especially for developers who frequently update the resource pack.  
-This mod aims to address this issue by enabling you to host the resource pack directly on your own server and easily share it with players.
+Instead, you typically have to host the resource pack on a third-party website,
+which can be inconvenient for players and server moderators,
+especially for developers who frequently update the resource pack.  
+This mod aims to address this issue by enabling you to
+host the resource pack directly on your own server and easily share it with players.
 
 ## Plan and Progress
 
@@ -50,13 +61,16 @@ The sha1 value does not update after update the resourcepack.
 The injected class is only called once when the server starts up.  
 As a result, when we update the resource pack, the SHA1 value does not get updated.  
 The solution is to inject into the class responsible for making a **resource pack download request**.  
-This way, each time the server sends a resource pack download request, the correct SHA1 value will be sent to the client.
+This way, each time the server sends a resource pack download request,
+the correct SHA1 value will be sent to the client.
 
 
 ## The thing what I learned
 
-This mod is hosted on GitHub, so when people encounter problems or bugs, they report them in GitHub issues.  
-In interacting with them, if they provide incomplete information, it's necessary to guess or guide them step by step to fully describe the situation.  
+This mod is hosted on GitHub, so when people encounter problems or bugs,
+they report them in GitHub issues.  
+In interacting with them, if they provide incomplete information,
+it's necessary to guess or guide them step by step to fully describe the situation.  
 Sometimes, there's no response for half a month.  
 At that time, I feel tired and wonder if I should just ignore them.  
 However, resolving the issue and seeing it closed makes me feel relieved.
