@@ -2,7 +2,7 @@
 # ResourcePack Server
 
 > 在線版本在這裡！https://github.com/iceice666/self-learning/blob/resourcepack-server/zh_TW.md  
-> 你也可以掃描這個QR碼
+> 你也可以掃描這個QR碼  
 > ![](qrcode_zh.png)
 
 一個允許你在自己的伺服器上托管資源包的模組。  
